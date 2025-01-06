@@ -73,6 +73,3 @@ HUFSTHON2024 4조 B1A4
 
 ---
 
-## 📜 라이선스  
-MIT License를 기반으로 합니다.
-
